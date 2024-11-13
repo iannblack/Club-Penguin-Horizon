@@ -1,0 +1,12 @@
+{
+  "hcaptcha": {
+    "secretKey": "ES_1484ea5c6b0e4558b30eff6bccefdf79"
+  },
+  "enableCaptcha": false,
+  "db": {
+    "host": "localhost",
+    "user": "registerservice",
+    "password": "ian_puto",
+    "database": "yukon"
+  }
+}
