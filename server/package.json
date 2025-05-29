@@ -1,7 +1,7 @@
 {
   "name": "yukon-server",
   "version": "1.5.0-beta",
-  "description": "A server for https://github.com/wizguin/yukon",
+  "description": "A server for CPPS",
   "scripts": {
     "dev": "babel-watch ./src/World.js Login Blizzard Sleet --extensions .ts .js",
     "build": "rimraf dist && babel src -d dist --extensions \".ts,.js\" --copy-files",
@@ -15,14 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wizguin/yukon-server.git"
+    "url": "git+https://github.com/iannblack/Club-Penguin-Horizon.git"
   },
-  "author": "wizguin",
+  "author": "Ian Black",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wizguin/yukon-server/issues"
+    "url": "https://github.com/iannblack/Club-Penguin-Horizon/issues"
   },
-  "homepage": "https://github.com/wizguin/yukon-server#readme",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
     "@babel/core": "^7.20.2",
