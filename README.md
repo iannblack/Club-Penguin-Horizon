@@ -5,12 +5,6 @@
 #
 
 <p align="center">
-  <a href="https://discord.gg/UPnWKfh">
-    <img
-      alt="Discord"
-      src="https://img.shields.io/discord/323290581063172096?color=7289DA&label=discord"
-    />
-  </a>
   <a href="https://github.com/iannblack/Club-Penguin-Horizon/issues">
     <img
       alt="Issue Tracker"
