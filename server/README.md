@@ -1,9 +1,5 @@
 # Yukon Server
 
-Visit the Discord server for more support.
-
-[![Yukon Discord members](https://badgen.net/discord/members/gxBqXy3qeY)](https://discord.gg/gxBqXy3qeY)
-
 ## Built With
 
 * [Node.js](https://nodejs.org/en/)
